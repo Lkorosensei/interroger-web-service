@@ -1,0 +1,14 @@
+{
+  "name": "interroger-web-service",
+  "version": "1.0.0",
+  "description": "interrogation ressources externe première approche de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SAMIR Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "^0.0.4"
+  }
+}
